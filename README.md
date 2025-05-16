@@ -2,7 +2,7 @@
 
 This project helps users predict the **resale price of a car** based on multiple features such as brand, fuel type, transmission, usage, and more. It leverages machine learning models and presents the insights through a visually appealing, interactive **Streamlit web application**.
 
-## 🔗 **Live App 👉 [Car Price Prediction - Streamlit App](#)**
+## 🔗 **Live App 👉 [Car Price Prediction - Streamlit App](https://carpriceprediction-ghrf69jqiofurhyrrn7hmv.streamlit.app/)**
 *(Click the link to predict resale prices and explore data trends.)*
 
 ---
